@@ -26,6 +26,6 @@ Example of Original Output In Second Terminal
 
 ### Authors
 
-*** Chance Bowers --> glitchingrelaity.github.io ; Modernized the code in 2023 for Python 3 compatability & additional features.
+*** Chance Bowers --> https://glitchingreality.github.io ; Modernized the code in 2023 for Python 3 compatability & additional features.
 
 ***Zach Fleming --> zflemingg1@gmail.com ;  created the original python2 base script in 2018 which this is based on.
